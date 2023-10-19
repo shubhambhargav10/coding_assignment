@@ -1,0 +1,92 @@
+.login-child {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--color-white);
+  width: 468px;
+  height: 857.15px;
+}
+.icon2 {
+  position: absolute;
+  top: 89.02px;
+  left: 59.77px;
+  width: 347.82px;
+  height: 253.08px;
+  object-fit: cover;
+}
+.login2 {
+  position: absolute;
+  top: 366.9px;
+  left: calc(50% - 26.71px);
+  font-size: 19.08px;
+  letter-spacing: 0.14px;
+  font-weight: 800;
+}
+.login-item {
+  position: absolute;
+  top: 428.58px;
+  left: calc(50% - 193.3px);
+  border-radius: 6.36px;
+  border: 1.3px solid var(--color-cornflowerblue);
+  box-sizing: border-box;
+  width: 387.24px;
+  height: 50.23px;
+}
+.continue {
+  position: relative;
+  letter-spacing: 0.14px;
+}
+.continue-wrapper {
+  position: absolute;
+  top: 497.89px;
+  left: 40.7px;
+  border-radius: 6.36px;
+  background-color: var(--color-cornflowerblue);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 9.538043022155762px 155.1521759033203px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--color-white);
+}
+.div2 {
+  position: relative;
+  letter-spacing: 0.14px;
+  font-weight: 500;
+}
+.line-div {
+  position: relative;
+  border-right: 1px solid var(--color-cornflowerblue);
+  box-sizing: border-box;
+  width: 0.95px;
+  height: 26.39px;
+}
+.mobile-number {
+  position: relative;
+  font-size: 12.72px;
+  letter-spacing: 0.14px;
+  font-weight: 500;
+}
+.parent {
+  position: absolute;
+  top: 440.66px;
+  left: 59.77px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 19.08px;
+}
+.login1 {
+  position: relative;
+  width: 468px;
+  height: 857.15px;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--font-size-base-9);
+  color: var(--color-cornflowerblue);
+  font-family: var(--font-poppins);
+}

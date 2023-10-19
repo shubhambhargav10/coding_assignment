@@ -1,0 +1,26 @@
+.rectangle-icon {
+  position: relative;
+  border-radius: var(--br-xl);
+  width: 265.06px;
+  height: 258.27px;
+  object-fit: cover;
+}
+.frame-child5 {
+  position: relative;
+  width: 265.06px;
+  height: 258.27px;
+  object-fit: cover;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-4xs-5);
+  width: 829.17px;
+  overflow-x: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16.99px;
+}

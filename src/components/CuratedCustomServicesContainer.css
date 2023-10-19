@@ -1,0 +1,158 @@
+.heading-28 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.18px;
+  display: flex;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-200);
+  text-align: left;
+  align-items: center;
+  width: 278px;
+  height: 49px;
+}
+.image-3-icon {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.image-3-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  cursor: pointer;
+}
+.xxhdpipng-icon {
+  position: relative;
+  border-radius: 7.88px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.steering {
+  position: relative;
+  letter-spacing: 0.22px;
+  font-weight: 600;
+}
+.image-10-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-xl);
+  cursor: pointer;
+}
+.frame-parent3 {
+  position: absolute;
+  top: 87px;
+  left: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+}
+.image-5-icon {
+  position: relative;
+  width: 100px;
+  height: 98px;
+  object-fit: cover;
+}
+.group {
+  height: 176px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-xl);
+  cursor: pointer;
+}
+.image-7-icon {
+  position: relative;
+  width: 142px;
+  height: 71px;
+  object-fit: cover;
+}
+.frame-parent4 {
+  position: absolute;
+  top: 88px;
+  left: 353px;
+  height: 546px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+}
+.frame-parent5 {
+  position: absolute;
+  top: 87px;
+  left: 181px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+}
+.image-6-icon {
+  position: relative;
+  width: 100px;
+  height: 96.77px;
+  object-fit: cover;
+}
+.image-11-icon {
+  position: relative;
+  width: 100px;
+  height: 68.47px;
+  object-fit: cover;
+}
+.image-11-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-31xl);
+  cursor: pointer;
+}
+.frame-parent6 {
+  position: absolute;
+  top: 88.62px;
+  left: 544px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+}
+.obdpng-icon {
+  position: relative;
+  border-radius: var(--br-43xl-5);
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.frame-parent7 {
+  position: absolute;
+  top: 87px;
+  left: 724px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+}
+.heading-2-car-services-avail-parent2 {
+  position: absolute;
+  top: 1703px;
+  left: 24px;
+  width: 860px;
+  height: 613px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

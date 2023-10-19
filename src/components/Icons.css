@@ -1,0 +1,14 @@
+.icons-child {
+  position: relative;
+  width: 16px;
+  height: 16px;
+  object-fit: cover;
+}
+.icons2 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}

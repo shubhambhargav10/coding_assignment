@@ -1,0 +1,126 @@
+.group-child11 {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  width: 376px;
+  height: 309px;
+  object-fit: cover;
+}
+.group-child12 {
+  position: absolute;
+  bottom: 1px;
+  left: 0px;
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+}
+.heading-29 {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  letter-spacing: 0.18px;
+  font-weight: 600;
+  display: inline-block;
+  width: 189px;
+  height: 49px;
+}
+.image-91-icon {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  width: 17.4px;
+  height: 17.4px;
+  object-fit: cover;
+}
+.image-92-icon {
+  position: absolute;
+  bottom: 0px;
+  left: 22.15px;
+  width: 17.4px;
+  height: 17.4px;
+  object-fit: cover;
+}
+.image-93-icon {
+  position: absolute;
+  bottom: 0px;
+  left: 44.3px;
+  width: 17.4px;
+  height: 17.4px;
+  object-fit: cover;
+}
+.image-94-icon {
+  position: absolute;
+  bottom: 0px;
+  left: 66.45px;
+  width: 17.4px;
+  height: 17.4px;
+  object-fit: cover;
+}
+.image-95-icon {
+  position: absolute;
+  bottom: 0px;
+  left: 88.6px;
+  width: 17.4px;
+  height: 17.4px;
+  object-fit: cover;
+}
+.image-91-parent {
+  position: absolute;
+  bottom: 1.3px;
+  left: 0px;
+  width: 106px;
+  height: 17.4px;
+}
+.week-ago {
+  position: absolute;
+  bottom: 2px;
+  left: 128px;
+  font-size: var(--font-size-xs);
+  letter-spacing: 0.22px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-darkslategray-100);
+}
+.heading-2-car-services-avail-parent3 {
+  position: absolute;
+  bottom: 0px;
+  left: 73px;
+  width: 203px;
+  height: 49px;
+}
+.ellipse-group {
+  position: absolute;
+  bottom: 208px;
+  left: 25px;
+  width: 276px;
+  height: 49px;
+}
+.absolutely-recommended-garage {
+  margin-block-start: 0;
+  margin-block-end: 33px;
+}
+.absolutely-recommended-garage-container {
+  position: absolute;
+  bottom: 44px;
+  left: 22px;
+  font-size: var(--font-size-xs);
+  letter-spacing: 0.22px;
+  line-height: 153.52%;
+  font-family: var(--font-inter);
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 338px;
+  height: 143px;
+}
+.group-parent22 {
+  position: absolute;
+  bottom: 654px;
+  left: 0px;
+  width: 376px;
+  height: 309px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+  font-family: var(--font-poppins);
+}
